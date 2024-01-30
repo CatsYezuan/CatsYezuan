@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+🌱 I'm CatsYezuan, a junior high school student, interested in disaster prevention(like earthquake) and chemical research.
 
-<!--
-**CatsYezuan/CatsYezuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm also the founder of the [Leafpeach Disaster Prevention](https://leafpeach.cn).
 
-Here are some ideas to get you started:
+✨ Focus Languages: Python, C#, JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Projects under development or maintenance:
+- QuakeCN2.0
+- LPDP APP
+- LP-Net(LPEO)
+- LPDP API
+
+📫 You can find me on [Twitter(X)](https://twitter.com/CatsYezuan) or [Bilibili](https://space.bilibili.com/384650904).
+
+![CatsYezuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatsYezuan)
+
+<!--Updated At 2024/01/31 02:06-->
