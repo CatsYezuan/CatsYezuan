@@ -6,7 +6,7 @@
 ✨ Focus Languages: Python, C#, JavaScript.
 
 ⚡ Projects under development or maintenance:
-- QuakeCN2.0
+- LPDP Lite(APP)2.0
 - LPDP APP
 - LP-Net(LPEO)
 - LPDP API
