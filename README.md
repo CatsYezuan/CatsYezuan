@@ -1,18 +1,10 @@
 ## Hi there 👋
-🌱 I'm CatsYezuan, a junior high school student, interested in disaster prevention(like earthquake) and chemical research.
+🌱 I'm CatsYezuan, a senior high school student, interested in disaster prevention(like earthquake) and chemical research.
 
-🔭 I'm also the founder of the [Leafpeach Disaster Prevention](https://leafpeach.cn).
+🔭 I'm also the founder of the Leafpeach Team
 
 ✨ Focus Languages: Python, C#, JavaScript.
 
-⚡ Projects under development or maintenance:
-- LPDP Lite(APP)2.0
-- LPDP APP
-- LP-Net(LPEO)
-- LPDP API
-
-📫 You can find me on [Twitter(X)](https://twitter.com/CatsYezuan) or [Bilibili](https://space.bilibili.com/384650904).
-
 ![CatsYezuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatsYezuan)
 
-<!--Updated At 2024/01/31 02:06-->
+<!--Updated At 2024/10/04 23:45-->
