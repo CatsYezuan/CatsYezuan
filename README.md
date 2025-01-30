@@ -5,6 +5,8 @@
 
 ✨ Focus Languages/Project: Python, Tauri(Vue), JavaScript.
 
+🗺 Communicate Languages: CN, EN, JA
+
 ![CatsYezuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatsYezuan)
 
 <!--Updated At 2025/01/30 15:35-->
